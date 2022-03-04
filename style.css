@@ -1,0 +1,16 @@
+nav{
+    background-color: #444444;
+    font-size: 16px;
+    font-family: Verdana;
+    width: 1000px;
+    margin: auto;
+    height: 50px;
+}
+nav a{
+    text-decoration: none;
+    float: left;
+    color: white;
+}
+article{
+    clear: both;
+}
